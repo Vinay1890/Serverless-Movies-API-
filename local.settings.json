@@ -1,8 +1,0 @@
-{
-  "IsEncrypted": false,
-  "Values": {
-      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
-      "FUNCTIONS_WORKER_RUNTIME": "python",
-      "OPENAI_API_KEY": "sk-proj-vysI1nI3blSjEW3zXgw5T3BlbkFJ9YIbWTlobqwmmqixNg4X"
-  }
-}
