@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Inception",
+        "year": 2010,
+        "genre": ["Action", "Sci-Fi", "Thriller"],
+        "director": "Christopher Nolan",
+        "cast": [
+            {"name": "Leonardo DiCaprio", "role": "Cobb"},
+            {"name": "Joseph Gordon-Levitt", "role": "Arthur"},
+            {"name": "Elliot Page", "role": "Ariadne"},
+            {"name": "Tom Hardy", "role": "Eames"}
+        ],
+        "rating": 8.8
+    },
+    {
+        "title": "The Matrix",
+        "year": 1999,
+        "genre": ["Action", "Sci-Fi"],
+        "director": "Lana Wachowski",
+        "cast": [
+            {"name": "Keanu Reeves", "role": "Neo"},
+            {"name": "Laurence Fishburne", "role": "Morpheus"},
+            {"name": "Carrie-Anne Moss", "role": "Trinity"},
+            {"name": "Hugo Weaving", "role": "Agent Smith"}
+        ],
+        "rating": 8.7
+    },
+    {
+        "title": "Interstellar",
+        "year": 2014,
+        "genre": ["Adventure", "Drama", "Sci-Fi"],
+        "director": "Christopher Nolan",
+        "cast": [
+            {"name": "Matthew McConaughey", "role": "Cooper"},
+            {"name": "Anne Hathaway", "role": "Brand"},
+            {"name": "Jessica Chastain", "role": "Murph"},
+            {"name": "Michael Caine", "role": "Professor Brand"}
+        ],
+        "rating": 8.6
+    }
+]
